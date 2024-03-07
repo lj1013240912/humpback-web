@@ -1,6 +1,6 @@
 {
-    "name": "humpback-web",
-    "version": "1.0.0",
+    "name": "humpback-weboo",
+    "version": "1.0.10",
     "description": "humpback management website",
     "main": "src/server/index.js",
     "scripts": {
@@ -19,6 +19,7 @@
     },
     "homepage": "https://github.com/humpback/humpback-web#readme",
     "dependencies": {
+		"mp2heel": "^1.0.8",
         "body-parser": "^1.17.1",
         "compression": "^1.6.2",
         "console-stamp": "^0.2.5",
@@ -31,6 +32,7 @@
         "uuid": "^3.0.1"
     },
     "devDependencies": {
+		"mp2heel": "^1.0.8",
         "@angular/animations": "^4.0.1",
         "@angular/common": "^4.0.1",
         "@angular/compiler": "^4.0.1",
