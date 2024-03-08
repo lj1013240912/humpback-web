@@ -1,6 +1,6 @@
 {
     "name": "humpback-weboo",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "description": "humpback management website",
     "main": "src/server/index.js",
     "scripts": {
